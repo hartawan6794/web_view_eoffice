@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609264547853",
+    "project_id": "web-view-4b498",
+    "storage_bucket": "web-view-4b498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609264547853:android:ec026d50a087c1f04abd44",
+        "android_client_info": {
+          "package_name": "com.pusdatin.web_view"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-H2-s_Zi8tCugLfTt5s1ktOuLrgqlPoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
