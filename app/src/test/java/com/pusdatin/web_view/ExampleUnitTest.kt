@@ -1,4 +1,4 @@
-package com.example.web_view
+package com.pusdatin.web_view
 
 import org.junit.Test
 
